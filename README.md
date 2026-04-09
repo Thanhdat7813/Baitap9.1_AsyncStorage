@@ -5,11 +5,10 @@
 - **Mã sinh viên:** 23810310311  
 
 ## Mô tả
-- Cách 2: Kết hợp Stack nativagion + bottom navigation + AsyncStorage
+- Sử dụng kết hợp Stack nativagion + bottom navigation + AsyncStorage để làm ứng dụng Restaurant.
 - Ứng dụng gồm 3 màn hình: HomeScreen, OrderScreen, ProfileScreen được xây dựng bằng JavaScript và sử dụng React Navigation.
 
 ## Kết quả
-
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/1b26af75-8044-46fd-b07a-1e9a2a0adb22" width="200"/>
